@@ -9,7 +9,9 @@
 <body>
 	board.jsp
 	<table>
-		
+		<tr>
+			<td>asd</td>
+		</tr>
 	</table>
 </body>
 </html>
